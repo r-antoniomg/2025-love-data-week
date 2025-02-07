@@ -18,7 +18,7 @@ If you have a Google account:
 You will need to copy and paste the following URL:
 [https://github.com/r-antoniomg/2025-love-data-week/blob/main/2025-02-love-data-week.ipynb](https://github.com/r-antoniomg/2025-love-data-week/blob/main/2025-02-love-data-week.ipynb)
 
-![Screenshot showing how to open Jupyter notebook from GitHub in Google Colab]([https://assets.digitalocean.com/articles/alligator/boo.svg](https://github.com/r-antoniomg/2025-love-data-week/blob/main/open-notebook-in-google-colab.jpg))
+![Screenshot showing how to opne Jupyter notebook from GitHub in Google Colab](https://assets.digitalocean.com/articles/alligator/boo.svg](https://github.com/r-antoniomg/2025-love-data-week/blob/main/open-notebook-in-google-colab.jpg 'Open Jupyter notebook in Google Colab')
 
 #### Option 2.2 : Download the `2025-02-love-data-week.ipynb` file and then open it in [Google Colab](https://colab.research.google.com/)
 
