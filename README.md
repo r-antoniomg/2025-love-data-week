@@ -11,5 +11,11 @@ To use the Jupyter notebook you will need to have Python and JupyterLab installe
 - [Install JupyterLab](https://jupyter.org/install)
 
 ### Option 2 : Google Colab
-If you have a Google account, you can download the `2025-02-love-data-week.ipynb` file and then open it in Google Colab.
+
+If you have a Google account:
+
+#### Option 2.1 : Open the notebook directly from GitHub
+
+#### Option 2.2 : Download the `2025-02-love-data-week.ipynb` file and then open it in [Google Colab](https://colab.research.google.com/)
+
 - Here is a short [video tutorial](https://youtu.be/R3sKKvMCwTo?si=5Ox2YZAKC90kNqDJ) that will guide you through the process
