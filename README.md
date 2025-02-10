@@ -2,6 +2,9 @@
 
 ## Repository contents
 - `2025-02-love-data-week.ipynb` : Jupyter notebook created for 2025 Love Data Week workshop at the University of Waterloo Libraries.
+- `Mock_Data_Set_Streaming_History_Audio_2020-2025_0.json` : AI-generated mock data set that can be used to test the Jupyter notebook.
+- `Mock_Data_Set_Streaming_History_Audio_2020-2025_1.json` : AI-generated mock data set that can be used to test the Jupyter notebook.
+- `Mock_Data_Set_Streaming_History_Audio_2020-2025_2.json` : AI-generated mock data set that can be used to test the Jupyter notebook.
 
 ## How to
 
